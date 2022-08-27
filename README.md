@@ -2,6 +2,7 @@
 
 ### 介绍
 琥珀云音乐移动端,修改自迷你音乐安卓端(https://gitee.com/cgper/mini-music-mobile/)
+
 配合后端工程(https://github.com/huhaku/huhaku-cloud-music-api)
 
 ### 截图
